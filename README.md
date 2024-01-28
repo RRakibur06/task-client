@@ -1,7 +1,7 @@
 ## Getting Started
 
 First, run the development server:
-# Make sure to run the API to work on File Submit
+### Make sure to run the API to work on File Submit
 
 ```bash
 npm run dev
